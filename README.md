@@ -1,6 +1,6 @@
 <p align="center">
-### Hi there 👋 
-### I am Luniva Chitrakar.
+ Hi there 👋 <br>
+I am Luniva Chitrakar.
 </p>
 <!--
 **zeph11/zeph11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
