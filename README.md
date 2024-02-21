@@ -2,6 +2,12 @@
  Hi there 👋 <br>
 I am Luniva Chitrakar.
 </p>
+<p>
+ I am an aspiring undergraduate student at Kathmandu University, dedicated to pursuing a Bachelor’s Degree in Science in Computer Science. My
+academic journey has been complemented by hands‑on experiences in diverse projects, where I have excelled in the realms of machine learning,
+web development, and mobile application development. I am eagerly seeking a rewarding opportunity to apply my extensive skill set and deep
+knowledge which I seek to continuously improve and implement in the industry
+</p>
 <!--
 **zeph11/zeph11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
