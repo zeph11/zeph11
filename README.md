@@ -7,8 +7,6 @@ I am Luniva Chitrakar.
 academic journey has been complemented by hands‑on experiences in diverse projects, where I have excelled in the realms of machine learning,
 web development, and mobile application development.
 </p>
-<!--
-**zeph11/zeph11** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 
 ## 🌐 Socials:
